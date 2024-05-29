@@ -3,5 +3,3 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/globalguide
-    overwrite: true
-file_exists_behavior: OVERWRITE
